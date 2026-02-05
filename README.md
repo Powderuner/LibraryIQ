@@ -1,4 +1,4 @@
-# Library Books Management System
+# LibraryIQ
 
 A modern web application for managing library book collections. Built with CodeIgniter 4, it features a clean interface for adding, organizing, and tracking books with support for ISBN lookup via Google Books API.
 
